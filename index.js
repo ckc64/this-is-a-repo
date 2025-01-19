@@ -1,1 +1,1 @@
-console.log('Hello, World! from branch 2');
+console.log('Hello, World! save this update if conflict happens');
